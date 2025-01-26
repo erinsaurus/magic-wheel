@@ -1,0 +1,7 @@
+{
+  "name": "magic-wheel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
